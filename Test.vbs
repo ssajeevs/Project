@@ -1,0 +1,1 @@
+Wscript.Echo "First First Program.."
